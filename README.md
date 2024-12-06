@@ -26,7 +26,8 @@ Default URL looks like this:
 
 Examples:
 
-* `url: jdbc:informix-sqli://localhost:9088/sysmaster`
-* `url: jdbc:informix-sqli://localhost:9088/adeelDB`
+* `jdbc:informix-sqli://localhost:9088/sysmaster`
+* `jdbc:informix-sqli://localhost:9088/adeelDB`
 * `jdbc:informix-sqli://localhost:9088/sysmaster:INFORMIXSERVER=informix`
 
+Have a look at the [liquibase.properties](liquibase.properties) file for the url, username and password setup.

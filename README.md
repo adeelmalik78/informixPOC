@@ -26,9 +26,7 @@ Default URL looks like this:
 
 Examples:
 
-`url: jdbc:informix-sqli://localhost:9088/sysmaster`
-
-`url: jdbc:informix-sqli://localhost:9088/adeelDB`
-
-`jdbc:informix-sqli://localhost:9088/sysmaster:INFORMIXSERVER=informix`
+* `url: jdbc:informix-sqli://localhost:9088/sysmaster`
+* `url: jdbc:informix-sqli://localhost:9088/adeelDB`
+* `jdbc:informix-sqli://localhost:9088/sysmaster:INFORMIXSERVER=informix`
 
